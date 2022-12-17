@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/osmoscraft/osmosfeed-template/issues"
   },
-  "homepage": "https://github.com/osmoscraft/osmosfeed-template#readme",
+  "homepage": "https://rss-feed-1.vercel.app",
   "dependencies": {
     "@osmoscraft/osmosfeed": "^1.2.2"
   }
