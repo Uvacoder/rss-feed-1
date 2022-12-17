@@ -1,15 +1,13 @@
-cacheUrl: https://news.mateffy.me/cache.json
+cacheUrl: https://rss-feed-1.vercel.app/cache.json
 sources:
-  - href: https://kyivindependent.com/feed
+  - href: https://wweb.dev/rss.xml
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.bleepingcomputer.com/feed/
+  - href: http://blogs.law.harvard.edu/tech/rss
   - href: https://www.technologyreview.com/feed/
-  - href: https://www.heise.de/rss/heise-Rubrik-IT.rdf
-  - href: https://www.heise.de/security/rss/alert-news.rdf
-  - href: http://feeds.feedburner.com/TheHackersNews?format=xml
-  - href: https://www.theregister.com/headlines.atom
-
-siteTitle: "Mateffy's RSS Feed"
-timezone: "Europe/Berlin"
+  - href: https://byteofdev.com/rss.xml
+  - href: https://daringfireball.net/feeds/main
+  
+siteTitle: "uvacoder's RSS Feed"
+timezone: "USA/Eastern"
