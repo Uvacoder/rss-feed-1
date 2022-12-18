@@ -1,12 +1,10 @@
 cacheUrl: https://rss-feed-1.vercel.app/cache.json
 sources:
-  - href: https://wweb.dev/rss
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: http://blogs.law.harvard.edu/tech/rss
   - href: https://www.technologyreview.com/feed/
-  - href: https://byteofdev.com/rss.xml
   - href: https://daringfireball.net/feeds/main
   
 siteTitle: "uvacoder's RSS Feed"
